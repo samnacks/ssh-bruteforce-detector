@@ -36,4 +36,4 @@ Suspicious IPs (>= 5 failures):
 Sample IPs use documentation ranges (RFC 5737). No real user data is included.
 
 ## Author
-[Your name], BSc Microbiology, transitioning into cybersecurity.
+ESSIEN SAMUEL
