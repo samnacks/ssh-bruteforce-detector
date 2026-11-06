@@ -1,0 +1,19 @@
+Nov  5 02:10:05 server sshd[3201]: Failed password for invalid user root from 203.0.113.45 port 40000 ssh2
+Nov  5 02:10:12 server sshd[2033]: Failed password for invalid user admin from 203.0.113.45 port 40001 ssh2
+Nov  5 02:10:19 server sshd[5179]: Failed password for invalid user test from 203.0.113.45 port 40002 ssh2
+Nov  5 02:10:26 server sshd[2931]: Failed password for invalid user oracle from 203.0.113.45 port 40003 ssh2
+Nov  5 02:11:33 server sshd[9117]: Failed password for invalid user ubuntu from 203.0.113.45 port 40004 ssh2
+Nov  5 02:11:40 server sshd[8364]: Failed password for invalid user guest from 203.0.113.45 port 40005 ssh2
+Nov  5 02:11:47 server sshd[8737]: Failed password for invalid user postgres from 203.0.113.45 port 40006 ssh2
+Nov  5 02:11:54 server sshd[7219]: Failed password for invalid user user from 203.0.113.45 port 40007 ssh2
+Nov  5 03:15:10 server sshd[4439]: Failed password for root from 198.51.100.23 port 50000 ssh2
+Nov  5 03:15:15 server sshd[2537]: Failed password for root from 198.51.100.23 port 50001 ssh2
+Nov  5 03:15:20 server sshd[8993]: Failed password for root from 198.51.100.23 port 50002 ssh2
+Nov  5 03:15:25 server sshd[1464]: Failed password for root from 198.51.100.23 port 50003 ssh2
+Nov  5 03:15:30 server sshd[7386]: Failed password for root from 198.51.100.23 port 50004 ssh2
+Nov  5 03:15:35 server sshd[8090]: Failed password for root from 198.51.100.23 port 50005 ssh2
+Nov  5 09:30:12 server sshd[1034]: Failed password for alice from 192.0.2.10 port 60001 ssh2
+Nov  5 09:31:04 server sshd[8297]: Accepted password for alice from 192.0.2.10 port 60002 ssh2
+Nov  5 14:05:40 server sshd[5363]: Failed password for bob from 192.0.2.77 port 61000 ssh2
+Nov  5 14:05:55 server sshd[4748]: Failed password for bob from 192.0.2.77 port 61001 ssh2
+Nov  5 14:06:20 server sshd[2674]: Accepted password for bob from 192.0.2.77 port 61002 ssh2
